@@ -29,4 +29,4 @@ For example
 
 [codeunion.postman_collection.json](https://github.com/Alisher2299/codeunion-back/files/13259190/codeunion.postman_collection.json)
 
-file:///home/alisher/Desktop/local%20codeunion.postman_environment.json
+[local codeunion.postman_environment.json](https://github.com/Alisher2299/codeunion-back/files/13259200/local.codeunion.postman_environment.json)
