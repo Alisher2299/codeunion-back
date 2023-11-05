@@ -13,7 +13,7 @@ In separate tab
 
 ``` $ $test ``` - run all tests
 
-``` $ flake8 ``` - run lint
+``` $ $flake8 ``` - run lint
 
 ### Run CLI command:
 
