@@ -27,6 +27,6 @@ For example
 
 ### Postman collection and env:
 
-[codeunion.postman_collection.json](https://github.com/Alisher2299/codeunion-back/files/13259190/codeunion.postman_collection.json)
+[codeunion.postman_collection.json](https://github.com/Alisher2299/codeunion-back/files/13259217/codeunion.postman_collection.json)
 
-[local codeunion.postman_environment.json](https://github.com/Alisher2299/codeunion-back/files/13259200/local.codeunion.postman_environment.json)
+[local codeunion.postman_environment.json](https://github.com/Alisher2299/codeunion-back/files/13259220/local.codeunion.postman_environment.json)
