@@ -18,6 +18,6 @@ celery_app.conf.beat_schedule = {
     # Executes every RUN_EVERY_MINUTE minutes
     "update-currency-every-5-minutes": {
         "task": "update_currency_task",
-        "schedule": timedelta(minutes=5),
+        "schedule": timedelta(minutes=1),
     },
 }
